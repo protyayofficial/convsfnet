@@ -25,5 +25,6 @@ Please cite the following paper.
 ## Acknowledgments
 We would like to thank the authors of the Medic repository for providing a solid foundation for our work. Their initial framework was essential in developing our enhanced model.
 
-## Licensing
+## License
+<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
