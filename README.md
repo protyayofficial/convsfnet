@@ -4,7 +4,7 @@ This project enhances disaster image classification by building upon the [Medic 
 
 ## Directory Structure 
 
-![]()
+![directory_structure](directory_structure.png)
 
 ## Features
 
