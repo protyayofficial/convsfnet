@@ -22,3 +22,4 @@ We would like to thank the authors of the Medic repository for providing a solid
 ## License
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
+[structure.pdf](https://github.com/user-attachments/files/16370677/structure.pdf)
