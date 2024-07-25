@@ -2,9 +2,10 @@
 
 This project enhances disaster image classification by building upon the [Medic repository](https://github.com/firojalam/medic). We introduce a novel architecture combining ConvNeXt with Squeeze-and-Excitation (SE) and Feature Pyramid Network (FPN) to improve classification accuracy and address overfitting issues.
 
-## Structure 
-The structure is as follows 
-[structure.pdf](https://github.com/user-attachments/files/16370677/structure.pdf)
+## Directory Structure 
+
+![]()
+
 ## Features
 
 - **Enhanced Model Architecture**: Integration of ConvNeXt with Squeeze-and-Excitation (SE) and Feature Pyramid Network (FPN).
